@@ -1,0 +1,11 @@
+.header-container {
+  height: 15vh;
+  background-color: #003333;
+}
+
+.header-container_app-title {
+  font-size: 25px;
+  text-transform: uppercase;
+  text-decoration: none;
+  color: #66CCCC;
+}

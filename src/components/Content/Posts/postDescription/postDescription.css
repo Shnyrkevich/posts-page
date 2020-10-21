@@ -1,0 +1,9 @@
+.post-description {
+  display: flex;
+  flex-direction: column;
+}
+
+.post-description_title {
+  font-size: 20px;
+  margin-bottom: 20px;
+}
