@@ -1,0 +1,15 @@
+.photos-container,
+.posts-container,
+.todos-container,
+.default-content {
+  margin-top: 10px;
+}
+
+.default-content {
+  font-size: 30px;
+
+}
+
+.preloader {
+  z-index: 9999;
+}

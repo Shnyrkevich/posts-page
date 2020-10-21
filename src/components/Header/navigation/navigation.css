@@ -1,0 +1,13 @@
+.navigation-container {
+  width: 320px;
+  display: flex;
+  align-items: center;
+  margin: 30px auto 0 auto;
+}
+
+.navigation-container a {
+  margin: 0 auto 0 auto;
+  color: white;
+  cursor: pointer;
+  text-decoration: none;
+}

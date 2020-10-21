@@ -1,0 +1,21 @@
+.post {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  width: 70%;
+  margin: 0 auto 10px auto;
+  min-height: 35px;
+  border: 2px solid #003333;
+}
+
+.post a {
+  color: #009999;
+  text-decoration: none;
+  margin-right: 5px;
+}
+
+.post-title {
+  margin: 5px auto 5px 5px;
+  text-align: left;
+}
